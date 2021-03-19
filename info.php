@@ -4,8 +4,8 @@
  *      @module       Code2
  *      @version      2.2.18
  *      @authors      Ryan Djurovich, minor changes by Chio Maisriml, websitbaker.at, Search-Enhancement by thorn, Mode-Select by Aldus, FTAN Support, syntax highlighting and current maintenance  by Martin Hecht (mrbaseman)
- *      @copyright    (c) 2009 - 2020, Website Baker Org. e.V.
- *      @link         https://github.com/WebsiteBaker-modules/code2
+ *      @copyright    (c) 2009 - 2021, Website Baker Org. e.V.
+ *      @link         https://github.com/mrbaseman/code2
  *      @license      GNU General Public License
  *      @platform     2.8.x
  *      @requirements PHP 5.2.x and higher
@@ -33,5 +33,5 @@ $module_platform    = '2.8.x';
 $module_author      = 'Ryan Djurovich, minor changes by Chio Maisriml, websitbaker.at, Search-Enhancement by thorn, Mode-Select by Aldus, FTAN Support, syntax highlighting and current maintenance  by Martin Hecht (mrbaseman)';
 $module_license     = 'GNU General Public License';
 $module_description = 'This module allows you to execute PHP, HTML, Javascript commands and internal comments (<span style="color:#FF0000;">limit access to users you trust!</span>)';
-$module_home        = 'https://github.com/WebsiteBaker-modules/code2';
+$module_home        = 'https://github.com/mrbaseman/code2';
 $module_guid        = '968243F3-EC4A-439D-8936-7D727D9EF8C2';

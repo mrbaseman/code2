@@ -2,6 +2,7 @@
 todo list:
 
 - if there are long lines of code, and syntax highlighting is activated, there's neither a horizontal scrollbar nor a soft linewrap. Instead, the editor field is widened to the absolute maximum (I've a very long line and the editor field becomes 2821px width, idk where this value does come from)
+![2019-05-02_114914](https://user-images.githubusercontent.com/1433754/57068013-d25fc580-6cd0-11e9-9bd8-e02196d5e9f3.jpg)
 
 - the content is stored as "text" in the database and hence cut off after 64k characters, should be changed to "longtext" to store also huge amounts of code?
 
